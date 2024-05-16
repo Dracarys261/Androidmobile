@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "917275881376",
+    "project_id": "citygem-5ad41",
+    "storage_bucket": "citygem-5ad41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917275881376:android:f30e4a84425d8b5916bec5",
+        "android_client_info": {
+          "package_name": "com.example.project_windows"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_qGZQkA7ppp6_6xCoH-VXamvn70jMmf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
